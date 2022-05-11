@@ -1,0 +1,2 @@
+module nodulo00005 {
+}

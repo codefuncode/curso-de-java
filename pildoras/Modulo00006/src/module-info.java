@@ -1,0 +1,2 @@
+module Modulo00006 {
+}
